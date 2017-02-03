@@ -1,0 +1,74 @@
+.RUHifr
+{
+    overflow:hidden;
+    background-color:#dddddd;
+}
+.RUHifr_wide
+{
+    overflow:hidden;
+    background-color:#dddddd;
+    width:600px;
+}
+.ruho
+{
+    position:static;
+    float:left;
+    width:280px;
+    border-right:325px solid #dddddd;
+    margin-right:-325px;
+}
+.ruhoimg
+{
+    float:left;
+    z-index:-20;
+    width:75px;
+    height:75px;
+    margin:5px;
+}
+.Magnifier
+{
+    margin: 12px;
+    float:left;
+    z-index: 100;
+}
+.txt-sboku
+{
+    font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+    font-size: 14px;
+    line-height:18px;
+    float:left;
+    margin:12px;
+}
+.txt-sboku_wide
+{
+    font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+    font-size: 14px;
+    line-height:18px;
+    float:left;
+    margin:12px;
+    width:300px;
+}
+.checkmark
+{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    z-index: 20;
+}
+.checkmarkimg
+{
+    width: 1px;
+}
+body
+{
+    font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+    font-size: 14px;
+}
+.ui-oops
+{
+    color: red;
+}
+.ui-ok
+{
+    color: green;
+}
